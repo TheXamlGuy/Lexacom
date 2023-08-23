@@ -42,10 +42,10 @@
                             Console.WriteLine();
                         }
                     }
-                }
-                else
-                {
-                    Console.WriteLine("Failed to determine input of your text transcription.");
+                    else
+                    {
+                        Console.WriteLine("Failed to determine input of your text transcription.");
+                    }
                 }
             } 
         }
